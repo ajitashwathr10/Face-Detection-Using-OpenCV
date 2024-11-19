@@ -1,6 +1,6 @@
 # Face Detection Using OpenCV
 
-This repository contains a simple implementation of face detection using OpenCV and Python. The project uses Haar Cascades for detecting faces in real-time through a webcam feed.
+This repository contains a simple implementation of face detection using OpenCV and Python. The project uses Haar Cascades for detecting faces with the help of a picture.
 
 ## Requirements
 To run this project, you need to have the following libraries installed:
