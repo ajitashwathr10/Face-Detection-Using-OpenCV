@@ -17,11 +17,11 @@ pip install opencv-python numpy
 ```bash
 Face-Detection-Using-OpenCV/
 │
-├── face_detection.py         # Main script for face detection
-├── haarcascades/             # Directory containing Haar Cascade XML files
-│   ├── haarcascade_frontalface_default.xml  # Pre-trained model for face detection
+├── Face_Detection.ipynb         # Main script for face detection
+├── face_detection.xml           # Directory containing Haar Cascade XML files
+├── face_detected.png    
 ├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
+└── female.png        
 ```
 ## Working
 1. Load the Haar Cascade XML file (pre-trained model).
