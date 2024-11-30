@@ -1,5 +1,10 @@
 # Face Detection Using OpenCV
 
+[![GitHub stars](https://img.shields.io/github/stars/ajitashwathr10/face-detection-using-opencv?style=social)](https://github.com/ajitashwathr10/face-detection-using-opencv/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ajitashwathr10/face-detection-using-opencv?style=social)](https://github.com/ajitashwathr10/face-detection-using-opencv/network)
+[![Issues](https://img.shields.io/github/issues/ajitashwathr10/face-detection-using-opencv)](https://github.com/ajitashwathr10/face-detection-using-opencv/issues)
+[![MIT License](https://img.shields.io/github/license/ajitashwathr10/face-detection-using-opencv)](LICENSE)
+
 This repository contains a simple implementation of face detection using OpenCV and Python. The project uses Haar Cascades for detecting faces with the help of a picture.
 
 ## Requirements
